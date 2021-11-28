@@ -25,7 +25,7 @@ p {
   margin: 20px auto;
 }
 .search,
-.current {
+.currentLocation {
   color: #fff;
   background-color: #9fd3c7;
   margin: 20px auto;
@@ -66,9 +66,7 @@ p {
   margin: 20px auto;
   padding: 20px;
 }
-.precipitation-icon {
-  color: #142d4c;
-}
+
 .first-day,
 .second-day,
 .third-day,
